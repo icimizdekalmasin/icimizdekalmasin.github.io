@@ -1,11 +1,10 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Hakkımızda
+permalink: /hakkimizda/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+İçimizde Kalmasın! Bu websiteyi bizim gibi anlatacak çok şeyi olup anlatacak birini bulamayan insanlar için kurduk. Yazmanın en büyük terapi olduğuna inanıyoruz. Hani böyle içimiz dolar, haykırmak isteriz ya bazen. Bir haykırış biçimi olarak yazıya inanların toplanma yeri burası. Hepimizi kızdıran bir çok şey var. Biliyoruz. Adaletsizlik, merhametsizlik, empati eksikliği, maddi uğraşlar, aşk ve daha nicesi. Delirmemek için yazmak ve içinizdekilerden kurtulmak isterseniz, yazılarınızı bizimle paylaşabilirsiniz. Herhangi bir yazma becerisine sahip olmak zorunda değilsiniz burada yazılarınızı yayınlamak için. İsterseniz isminizi paylaşmak zorunda da değilsiniz. Rumuz kullanabilirsiniz ya da hiçbir şey belirtmeyip anonim olarak yazınızı yayınlayabilirsiniz. Önemli olan tek şey yazma ihtiyacı, bir şeyleri anlatma ihtiyacı hissetmeniz. Yazılarınızı bizimle paylaşmak isterseniz [icimizdekalmasin0@gmail.com](icimizdekalmasin0@gmail.com) adresine mail atabilirsiniz. 
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+Biz kimiz diye merak ederseniz de çok merak etmeyin. Biz de sizin gibi normal olmaya çalışıp bir türlü olamayan ve en etkili terapi olarak yazıyı seçen bir grup insanız. Hangi dil, din ve ya ırk'a bağlı olduğunuz da umurumuzda değil. Türkçe'yi okuyup yazabildiğiniz sürece siz de bizim tayfanın bir parçasısınız. Mutluluğa ulaşabilmeniz dileğiyle!
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
