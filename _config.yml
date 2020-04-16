@@ -13,7 +13,7 @@ markdown: kramdown
 theme: minima
 
 disqus:
-    shortname: icimizde-kalmasin-1.disqus.com
+    shortname: icimizde-kalmasin
 
 # Improve google search result
 plugins_dir:
