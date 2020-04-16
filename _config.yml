@@ -14,3 +14,7 @@ theme: minima
 
 disqus:
     shortname: icimizde-kalmasin-1.disqus.com
+
+# Improve google search result
+plugins_dir:
+  - jekyll-seo-tag
